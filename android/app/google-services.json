@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "105139890148",
+    "project_id": "volunteervibes-n2vb5",
+    "storage_bucket": "volunteervibes-n2vb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105139890148:android:c870b2a709e9c1a22509f1",
+        "android_client_info": {
+          "package_name": "com.example.volunteer_vibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105139890148-049gb12qrl6n39ah79t2r6n3tae9u2bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2x_qAVK3ilZDn1BCyKVCG-8qz7w25u1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105139890148-049gb12qrl6n39ah79t2r6n3tae9u2bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105139890148-ljna9huvhfqb1bvdiie6gfc7r51c178c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.volunteerVibes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105139890148:android:11d02d606280c39e2509f1",
+        "android_client_info": {
+          "package_name": "com.hafiyAI.VolunteerVibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105139890148-3j4lq12ooidt68uir22i6lgfmapuqgd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafiyAI.VolunteerVibes",
+            "certificate_hash": "8bd0852506bb358bcb805277145f3662762816c1"
+          }
+        },
+        {
+          "client_id": "105139890148-049gb12qrl6n39ah79t2r6n3tae9u2bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2x_qAVK3ilZDn1BCyKVCG-8qz7w25u1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105139890148-049gb12qrl6n39ah79t2r6n3tae9u2bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105139890148-ljna9huvhfqb1bvdiie6gfc7r51c178c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.volunteerVibes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
